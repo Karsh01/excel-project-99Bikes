@@ -2,20 +2,17 @@
 
 This project presents an end-to-end data analytics workflow using the **99Bikes dataset** extracted from [Kaggle](https://www.kaggle.com/datasets/tforsyth/99bikes-sales-data). The goal is to showcase real-world Excel-based data analysis and dashboard design by applying core data science steps: **data cleaning**, **pivot table modeling**, and **KPI dashboard creation**.
 
-excel-project-99Bikes/
-│
-├── datasets/                              # All data, pivots & dashboards
-│   └── raw
-        └── 99Bikers_Raw_data.xlsx
-    └── cleaned
-        └── cleaned_99bikes_data.xlsx
-│
-├── visuals/
-│   ├── Customer Analysis Dashboard.png    # Dashboard
-│   ├── customer_pivot_table_preview.png   # Pivot structure
-│   ├── Sales Dashboard.png                # Dashboard
-│   └── sales_pivot_table_preview.png      # Pivot structure
-
+- `excel-project-99Bikes/`
+  - `datasets/` – All data, pivots & dashboards
+    - `raw/`
+      - `99Bikers_Raw_data.xlsx`
+    - `cleaned/`
+      - `cleaned_99bikes_data.xlsx`
+  - `visuals/`
+    - `Customer Analysis Dashboard.png` – Dashboard
+    - `customer_pivot_table_preview.png` – Pivot structure
+    - `Sales Dashboard.png` – Dashboard
+    - `sales_pivot_table_preview.png` – Pivot structure
 ---
 
 ## 📦 Dataset Overview
