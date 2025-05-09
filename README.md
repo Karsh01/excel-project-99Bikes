@@ -17,7 +17,7 @@ This project presents an end-to-end data analytics workflow using the **99Bikes 
 
 ## 📦 Dataset Overview
 
-- **Source**: [Kaggle - 99Bikes Sales Dataset](https://www.kaggle.com/datasets/heeraldedhia/99bikes-sales-data)
+- **Source**: [Kaggle - 99Bikes Sales Dataset](https://www.kaggle.com/datasets/tforsyth/99bikes-sales-data)
 - **Sheets Included**:
   - `Transactions`: sales transactions with date, brand, product info
   - `CustomerDemographic`: customer age, gender, wealth, tenure, etc.
