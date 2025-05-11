@@ -46,8 +46,6 @@ This project presents an end-to-end data analytics workflow using the **99Bikes 
 
 - Dropped the `default` column
 
-- Filled null values in `tenure` with `-1`
-
 - Filled null values in `DOB` with `'1/1/1600'`
 
 - Standardized `state` values:
